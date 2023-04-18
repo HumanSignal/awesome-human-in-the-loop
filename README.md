@@ -1,9 +1,7 @@
 # awesome-human-in-the-loop
-Awesome List of Human in the Loop resources and references for retraining models. 
+> An awesome list of tools and resources to get started with Human in the Loop or RHLF. 
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-> An awesome list of tools and resources to get started with Human in the Loop or RHLF. 
 
 ## Awesome RHLF 
 
