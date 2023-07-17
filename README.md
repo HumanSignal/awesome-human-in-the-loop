@@ -16,8 +16,8 @@
 
 
 ### Tools and Resources
-
-* **[Scale - RLHF for Large Language Models](https://scale.com/rlhf) | **Landing page, tool
+* **[Secrets of RLHF in Large Language Models](https://github.com/OpenLMLab/MOSS-RLHF)** | Code and tutorials for RLHF in nutshell
+* **[Scale - RLHF for Large Language Models](https://scale.com/rlhf) |** Landing page, tool
 * **[Github - lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) | **Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 * **[Github - anthropics/hh-rlhf ](https://github.com/anthropics/hh-rlhf)| **Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 * **[Github - conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) | **Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT.
